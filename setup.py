@@ -7,7 +7,7 @@ def get_requirements(file_path: str) -> List[str]:
        This function will return a list of requirements.txt         
     '''
 
-    Hyphen_E_Dot = '-e .'
+    # Hyphen_E_Dot = '-e .'
 
     requirements = []
 
@@ -15,8 +15,8 @@ def get_requirements(file_path: str) -> List[str]:
         requirements = file_obj.readlines()
         requirements = [req.replace('/n', "")for req in requirements]
 
-        if Hyphen_E_Dot in requirements:
-            requirements.remove(Hyphen_E_Dot)
+        # if Hyphen_E_Dot in requirements:
+        #     requirements.remove(Hyphen_E_Dot)
 
     return requirements
 
