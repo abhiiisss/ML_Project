@@ -24,7 +24,7 @@ class DataIngestion:
 
         try:
             #reading the data from sql
-            df = read_sql_data()
+            df=pd.read_csv(os.path.join('notebook/data','raw_data.csv'))
             logging.info("Completed Reading MySql Database")
 
             os.makedirs(os.path.dirname(self.injestionConfig.train_data_path), exist_ok= True)
