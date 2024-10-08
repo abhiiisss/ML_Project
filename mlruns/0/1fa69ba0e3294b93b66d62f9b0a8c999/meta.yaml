@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/ML_Project/mlruns/0/1fa69ba0e3294b93b66d62f9b0a8c999/artifacts
+end_time: 1728380031923
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1fa69ba0e3294b93b66d62f9b0a8c999
+run_name: skillful-crow-166
+run_uuid: 1fa69ba0e3294b93b66d62f9b0a8c999
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728380023245
+status: 3
+tags: []
+user_id: root

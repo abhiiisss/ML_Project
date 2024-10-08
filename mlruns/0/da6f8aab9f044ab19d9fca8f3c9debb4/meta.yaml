@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/ML_Project/mlruns/0/da6f8aab9f044ab19d9fca8f3c9debb4/artifacts
+end_time: 1728379980532
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da6f8aab9f044ab19d9fca8f3c9debb4
+run_name: crawling-wolf-449
+run_uuid: da6f8aab9f044ab19d9fca8f3c9debb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728379965033
+status: 3
+tags: []
+user_id: root
